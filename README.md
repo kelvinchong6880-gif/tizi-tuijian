@@ -247,4 +247,6 @@ A：在官网选好套餐，结算页有「优惠码」输入框，粘贴后点�
 
 ⭐ 觉得有用请点个 Star，方便下次找到。机场信息每月更新，最新优惠码见 [梯子优惠码](https://tizikua.blog/youhuima/)。
 
+国内访问较慢可以看中文镜像：[GitHub 中文版 · tizi-tuijian](https://bdnb.cn/repo/kelvinchong6880-gif/tizi-tuijian)
+
 <sub>本仓库内容仅供学习与跨境办公参考，请遵守当地法律法规。部分链接为推广链接。</sub>

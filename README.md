@@ -3,7 +3,7 @@
 > 整理国内用户常用的翻墙机场 / 梯子，按线路、价格、解锁能力分类，收录 34 家，附优惠码与客户端教程。所有机场均支持 **支付宝 / 微信 / USDT** 付款。
 > 完整排行榜、测速截图与每周复核的优惠码见：**[梯子跨 tizikua.blog](https://tizikua.blog/)**
 >
-> 最后更新：2026-11-08（每月更新一次本页） · [更新日志](#十更新日志)
+> 最后更新：2026-11-23（每月更新一次本页） · [更新日志](#十更新日志)
 
 ---
 
@@ -111,7 +111,7 @@ BGP 多线路调度 + 专线级出口，SS 协议。除了月付（¥20 起）�
 | 8 | [飞V](https://tizikua.blog/jichang/feiv/) | IEPL/IPLC | ¥99/年 | ¥189 / 130GB | `fly20` |
 | 9 | [光速云](https://tizikua.blog/jichang/guangsu/) | 专线 | ¥99/年 | ¥680 / 1.0TB | `AMM` |
 | 10 | [星岛梦](https://tizikua.blog/jichang/xingdaomeng/) | IPLC | ¥96/年 | ¥100 / 100GB | `nmw888` |
-| 11 | [无忧](https://tizikua.blog/jichang/wuyou/) | IPLC | ¥79/年 | ¥108 / 100GB | `wuyou` |
+| 11 | [无忧](https://tizikua.blog/jichang/wuyou/) | IPLC | ¥79/年 | ¥98 / 100GB | `wuyou` |
 | 12 | [一翻云](https://tizikua.blog/jichang/yifan/) | IEPL | ¥98/年 | ¥100 / 100GB | `1FLYYUN` |
 | 13 | [灵动云](https://tizikua.blog/jichang/lingdong/) | 专线 | ¥99/年 | ¥199 / 150GB | `zq88` |
 | 14 | [极连云](https://tizikua.blog/jichang/jilian/) | IPLC | ¥96/年 | ¥399 / 600GB | `JLY888` |

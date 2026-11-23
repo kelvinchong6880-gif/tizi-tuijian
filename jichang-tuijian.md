@@ -8,7 +8,7 @@ description: 2026 机场推荐排行榜，按线路、流量、价格、AI 与�
 > 这份机场推荐不按「谁最便宜」排，而是按**你的用法**来选：先算清楚需要多少流量、什么线路，再看哪家最合适。
 > 数据来自各家官网，每月整理一次；部分注册链接为推广链接，不影响价格。完整榜单与每家详细测评见 **[梯子跨 tizikua.blog](https://tizikua.blog/)**。
 
-最后整理：2026-11-08 · 返回 [总榜首页](./) · 专题：[便宜机场推荐](pianyi-jichang.md) · [客户端教程](jiaocheng.md)
+最后整理：2026-11-23 · 返回 [总榜首页](./) · 专题：[便宜机场推荐](pianyi-jichang.md) · [客户端教程](jiaocheng.md)
 
 ---
 
@@ -91,7 +91,7 @@ description: 2026 机场推荐排行榜，按线路、流量、价格、AI 与�
 | 8 | [飞V](https://tizikua.blog/jichang/feiv/) | IEPL/IPLC + BGP | ¥25 | 150GB | 以官网为准 | `fly20` |
 | 9 | [光速云](https://tizikua.blog/jichang/guangsu/) | 专线 | ¥23 | 138GB | 不限 | `AMM` |
 | 10 | [星岛梦](https://tizikua.blog/jichang/xingdaomeng/) | IPLC | ¥25 | 150GB | 以官网为准 | `nmw888` |
-| 11 | [无忧](https://tizikua.blog/jichang/wuyou/) | IPLC | ¥19 | 100GB | 以官网为准 | `wuyou` |
+| 11 | [无忧](https://tizikua.blog/jichang/wuyou/) | IPLC | ¥25 | 160GB | 以官网为准 | `wuyou` |
 | 12 | [一翻云](https://tizikua.blog/jichang/yifan/) | IEPL | ¥20 | 150GB | 以官网为准 | `1FLYYUN` |
 | 13 | [灵动云](https://tizikua.blog/jichang/lingdong/) | BGP + 专线出口 | ¥20 | 100GB | 以官网为准 | `zq85` |
 
@@ -109,7 +109,7 @@ description: 2026 机场推荐排行榜，按线路、流量、价格、AI 与�
 
 - **sogo云 小包**：¥98/年，每月 60GB，IEPL/IPLC 专线；用 `sogo10000` 约 ¥88/年
 - **飞猫云学生版**：¥84/年，每月 50GB
-- **无忧 MINI**：¥79/年，每月 40GB，价格最低但流量也最少
+- **无忧 MINI**：¥79/年，每月 50GB，价格最低但流量也最少
 
 更多选择：[便宜机场推荐（年付 ¥100 以内）](pianyi-jichang.md)
 
